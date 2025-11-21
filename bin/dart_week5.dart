@@ -1,6 +1,6 @@
-
-import 'package:dart_week5/function_call.dart';
+import 'package:dart_week5/funtion_return.dart';
 
 void main() {
-  printName();
+  calfunction();
+  // printName();
 }
